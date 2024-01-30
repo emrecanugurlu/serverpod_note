@@ -1,0 +1,6 @@
+class: Product
+table: product
+fields:
+  name: String
+  price: double
+  description: String
